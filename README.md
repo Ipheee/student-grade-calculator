@@ -1,4 +1,4 @@
-*TASK*
+# ReadMe
 
 Build a grade calculator
 
